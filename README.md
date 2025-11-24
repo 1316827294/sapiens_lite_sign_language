@@ -36,6 +36,8 @@ Go to the directory containing the **lite** toolkit:
 ```bash
 git clone https://github.com/facebookresearch/sapiens.git
 cd path/to/sapiens/lite
+git clone https://github.com/1316827294/sapiens_lite_sign_language.git
+mv sapiens_lite_sign_language's code in path/to/sapiens/lite
 ```
 
 ---
