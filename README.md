@@ -34,6 +34,7 @@ pip install opencv-python tqdm json-tricks
 Go to the directory containing the **lite** toolkit:
 
 ```bash
+git clone https://github.com/facebookresearch/sapiens.git
 cd path/to/sapiens/lite
 ```
 
